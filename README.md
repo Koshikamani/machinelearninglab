@@ -1,5 +1,4 @@
-# machinelearninglab
-# LAB NAME :Machin Learning Lab
+# LAB NAME :MachineLearning Lab
 # Id : B201603
 # Name : Koshika Mani
 # Class : CSE-C1
